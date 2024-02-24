@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviranjan0" alt="raviranjan0" /></a> </p>
 
+<hr>
+
 - 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
