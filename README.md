@@ -45,3 +45,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviranjan0&theme=dark&hide_border=false" alt="raviranjan0" />
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<img src="https://img.shields.io/github/followers/raviranjan0.svg?style=social&amp;label=Follow"
+        style="max-width: 100%;" />
