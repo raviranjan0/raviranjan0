@@ -28,4 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviranjan0&show_icons=true&locale=en" alt="raviranjan0" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/raviranjan0)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviranjan0&theme=dark&hide_border=false" alt="raviranjan0" />
+</p>
