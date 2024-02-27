@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS**
+- 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS** ..
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
