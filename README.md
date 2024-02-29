@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviranjan0" alt="raviranjan0" /></a> </p>
 
 <hr>
+<img align="right" alt="Coding" width="400" src="https://www.eos.com.ec/wp-content/uploads/2019/11/avento.gif">
 
 
 - 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS**   
