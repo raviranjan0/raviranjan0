@@ -8,8 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviranjan0" alt="raviranjan0" /></a> </p>
 
 <hr>
- <p align="right"> <img src="https://www.eos.com.ec/wp-content/uploads/2019/11/avento.gif" alt="raviranjan0" width="300" /> </p>
-
+ 
 - 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS**   
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
@@ -17,6 +16,8 @@
 - 📫 How to reach me **raviranjankrsingh07@gmail.com**
 
 - ⚡ Love to **Maintain Physique & Mind too!**
+<p align="right"> <img src="https://www.eos.com.ec/wp-content/uploads/2019/11/avento.gif" alt="raviranjan0" width="300" /> </p>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
