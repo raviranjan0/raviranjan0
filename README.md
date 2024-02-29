@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviranjan0" alt="raviranjan0" /></a> </p>
 
 <hr>
-<img align="right" alt="GIF" src="https://github.com/raviranjan0/raviranjan0/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 - 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS**   
