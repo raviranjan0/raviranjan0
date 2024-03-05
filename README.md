@@ -13,7 +13,7 @@
  
 - 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS**   
 
-- 💬 Ask me about **HTML, CSS, JavaScript**     
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **raviranjankrsingh07@gmail.com**
 
