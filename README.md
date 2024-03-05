@@ -9,7 +9,7 @@
 
 <hr>
   <img src="https://www.eos.com.ec/wp-content/uploads/2019/11/avento.gif" alt="raviranjan0" width="350" align="right">
-...
+..
  
 - 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS**   
 
