@@ -39,7 +39,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
 
 ## My Github Stats-
 
@@ -57,8 +56,14 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
+
+
 <img src="https://img.shields.io/github/followers/raviranjan0.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" />
+
+
 
 
 
