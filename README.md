@@ -3,7 +3,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey!++%F0%9F%91%8B%2C+I+am+Raviranjan+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+world+of+Web+Development!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
 
 
-<div align="center">
+<div align="left">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fraviranjan0%2Fraviranjan0&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 
 <hr>
