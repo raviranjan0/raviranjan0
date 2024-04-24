@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan0" /> </p>
 
-https://github-profile-trophy.vercel.app/?username=raviranjan0&theme=onedark
+
 <hr>
   <img src="https://www.eos.com.ec/wp-content/uploads/2019/11/avento.gif" alt="raviranjan0" width="350" align="right">
 
@@ -36,6 +36,8 @@ https://github-profile-trophy.vercel.app/?username=raviranjan0&theme=onedark
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviranjan0&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="raviranjan0" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
 
 ## My Github Stats-
 
