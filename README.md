@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviranjan0" alt="raviranjan0" /></a> </p>
-
+https://github-profile-trophy.vercel.app/?username=raviranjan0&theme=onedark
 <hr>
   <img src="https://www.eos.com.ec/wp-content/uploads/2019/11/avento.gif" alt="raviranjan0" width="350" align="right">
 
