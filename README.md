@@ -8,7 +8,7 @@
 
 
 <hr>
-  <img src="https://www.eos.com.ec/wp-content/uploads/2019/11/avento.gif" alt="raviranjan0" width="350" align="right">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="raviranjan0" width="400" align="right">
   
 
  
