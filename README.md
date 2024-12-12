@@ -12,14 +12,20 @@
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="raviranjan0" width="400" align="right">
   
 
- 
-- 🌱 I’m currently learning **Tailwind, ReactJs, NodeJS**   
+👨🏻‍💻 **About Me**
+✨ Full-Stack Developer | Intern [@Learn & Build](https://learnandbuild.in/) <br>
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+⚡ Check my ✨ [Website](https://www.raviranjan.live/) <br>
 
-- 📫 How to reach me **raviranjankrsingh07@gmail.com**
+📫 How to reach me: [Mail me](mailto:webravi11@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/raviranjan0/)<br>
 
-- ⚡ Love to **Maintain Physique & Mind too!**
+💬 Ask me about Web Development.<br>
+
+👯 I’m looking to collaborate with **open source enthusiasts**. <br>
+
+🥅 Currently learning: **React**, **Nextjs** And strengthen **DSA**. <br>
+
+⚡ Love to **Maintain Physique & Mind too!**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
