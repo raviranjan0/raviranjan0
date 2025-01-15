@@ -152,7 +152,7 @@
 
 
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <img src="https://img.shields.io/github/followers/raviranjan0.svg?style=social&amp;label=Follow"
