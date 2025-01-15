@@ -148,22 +148,7 @@
                 alt="raviranjan0" height="170" /></p>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
-
-
-
-<img src="https://img.shields.io/github/followers/raviranjan0.svg?style=social&amp;label=Follow"
-        style="max-width: 100%;" />
-
-
-
-
-
-              
- <details>
 <p align="center">
   <a href="https://github.com/raviranjan0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raviranjan0&theme=transparent" />
@@ -175,3 +160,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raviranjan0&theme=transparent" />
   </a>
   <a href="https://github.com/raviranjan0">
+
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
+  
+<img src="https://img.shields.io/github/followers/raviranjan0.svg?style=social&amp;label=Follow"
+        style="max-width: 100%;" />
+
