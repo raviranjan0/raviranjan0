@@ -141,9 +141,9 @@
 
 ## My Github Stats-
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviranjan0&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="raviranjan0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviranjan0&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="raviranjan0" /></p>
 
-<p align="left"><img
+<p align="center"><img
                 src="https://github-readme-stats.vercel.app/api?username=raviranjan0&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
                 alt="raviranjan0" height="170" /></p>
 
