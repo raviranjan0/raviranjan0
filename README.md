@@ -15,7 +15,7 @@
 👨🏻‍💻 **About Me**
 ✨ Full-Stack Developer | Intern [@Learn & Build](https://learnandbuild.in/) <br>
 
-⚡ Check my ✨ [Website](https://www.raviranjan.live/) <br>
+⚡ Checkout my ✨ [Website](https://www.raviranjan.live/) <br>
 
 📫 How to reach me: [Mail me](mailto:webravi11@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/raviranjan0/)<br>
 
