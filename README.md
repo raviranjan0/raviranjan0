@@ -148,7 +148,6 @@
                 alt="raviranjan0" height="200" /></p>
 
 
-
 <p align="center">
   <a href="https://github.com/raviranjan0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raviranjan0&theme=transparent" />
