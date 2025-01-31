@@ -44,7 +44,6 @@
   </a>
 </div>
 
-
 <hr>
 </tr>
 </table>
