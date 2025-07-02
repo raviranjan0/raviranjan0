@@ -29,9 +29,11 @@
 
 🥅 Strengthening: **Automation testing skills**. <br>
 
-⚡ Love to **Maintain Physique🏋 & Mind🧠 both!**
+⚡ Love to build both a strong **Physique 🏋** and a sharper **Mind 🧠** — balance is my lifestyle."
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1900" />
 
 <h3 align="left">Connect with me :</h3>
 <div align="left">
@@ -51,7 +53,6 @@
 <hr>
 </tr>
 </table>
-
 
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology </h1>
 
