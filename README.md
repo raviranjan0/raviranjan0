@@ -15,7 +15,7 @@
 
 
 👨🏻‍💻 **About Me**
-✨ Full-Stack Developer | Intern [@Learn & Build](https://learnandbuild.in/) <br>
+✨ QA Automation Engineer & Developer | QA Engnieer [@Zucol Group](https://www.linkedin.com/company/zucol/posts/?feedView=all) <br>
 
 ⚡ Checkout my ✨ [Website](https://www.raviranjan.live/) <br>
 
