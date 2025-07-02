@@ -11,7 +11,7 @@
 
 
 <hr>
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="raviranjan0" width="400" align="right">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="raviranjan0" width="350" align="right">
 
 
 👨🏻‍💻 **About Me**
@@ -33,7 +33,7 @@
 
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1900" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me :</h3>
 <div align="left">
