@@ -25,7 +25,7 @@
 
 👯 I’m looking for a role in **Automation Testing**. <br>
 
-🥅 Currently Grinding: **Selenium, Playwright, Cypress** <br>
+🥅 Currently Grinding: **Selenium, Playwright, Cypress.** <br>
 
 🥅 Strengthening: **Automation testing skills**. <br>
 
