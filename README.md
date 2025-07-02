@@ -21,11 +21,11 @@
 
 📫 How to reach me: [Mail me](mailto:webravi11@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/raviranjan0/)<br>
 
-💬 Ask me about Web Development.<br>
+💬 Ask me about Automation Testing & Web Development.<br>
 
-👯 I’m looking to collaborate with **open source enthusiasts**. <br>
+👯 I’m looking for a role in **Automation Testing**. <br>
 
-🥅 Currently learning: **React**, **Nextjs** And strengthen **DSA**. <br>
+🥅 Currently Grinding: **Selenium, Playwright, Cypress**, And strengthening **Automation tesing skill**. <br>
 
 ⚡ Love to **Maintain Physique & Mind too!**
 
@@ -49,90 +49,136 @@
 <hr>
 </tr>
 </table>
- 
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
+
+
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology </h1>
+
+<!-- 🧑‍💻 Development Section -->
+<h2>💻 Development</h2>
 
 <table align="center" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
       <br>HTML5
     </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
       <br>CSS3
     </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
-      <br>Javascript
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="55" height="55" />
+      <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
-      <br>Typescript
+      <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" />
+      <br>TypeScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next Js
-    </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React Js
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
+      <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
+      <br>React.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" />
       <br>Flask
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" alt="icon" />
-      <br>Three Js
+      <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" />
+      <br>Three.js
     </td>
   </tr>
   <tr>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" />
       <br>Bootstrap
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>ExpressJS
+      <img src="https://skillicons.dev/icons?i=express" width="55" height="55" />
+      <br>Express.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" />
       <br>C++
     </td>
-    <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
-      <br>NodeJS
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
+      <br>Node.js
     </td>
-    <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" />
       <br>Vite
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
-      <br>aws
+      <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" />
+      <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
       <br>Git
     </td>
   </tr>
   <tr>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
       <br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="md" />
-      <br>Mysql
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
+      <br>MySQL
     </td>
-  
-  
+  </tr>
 </table>
+
+<!-- 🧪 Testing Section -->
+<h2>🧪 Testing</h2>
+
+<table align="center" class="table table-dark">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="55" height="55" alt="Selenium WebDriver" />
+      <br>Selenium
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="55" height="55" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" alt="JIRA" />
+      <br>JIRA
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="55" height="55" alt="Cypress" />
+      <br>Cypress
+    </td>
+    <td align="center" width="90">
+      <img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="55" alt="Playwright" />
+      <br>Playwright
+    </td>
+    <td align="center" width="90">
+      <img src="https://jestjs.io/img/opengraph.png" width="55" height="55" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/2048px-Jenkins_logo.svg.png" width="55" height="55" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55" alt="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
+  </tr>
+</table>
+
+
+
 
 <hr>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviranjan0&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="raviranjan0" />
