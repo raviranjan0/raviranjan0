@@ -15,13 +15,13 @@
 
 
 👨🏻‍💻 **About Me**
-✨ QA Automation Engineer & Developer | QA Engnieer [@Zucol Group](https://www.linkedin.com/company/zucol/posts/?feedView=all) <br>
+✨ QA Automation Engineer & Developer | **QA Engnieer** [@Zucol Group](https://www.linkedin.com/company/zucol/posts/?feedView=all) <br>
 
 ⚡ Checkout my ✨ [Website](https://www.raviranjan.live/) <br>
 
 📫 How to reach me: [Mail me](mailto:webravi11@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/raviranjan0/)<br>
 
-💬 Ask me about Automation Testing & Web Development.<br>
+💬 Ask me about **Automation Testing** & **Web Development**.<br>
 
 👯 I’m looking for a role in **Automation Testing**. <br>
 
@@ -29,7 +29,7 @@
 
 🥅 Strengthening: **Automation testing skills**. <br>
 
-⚡ Love to **Maintain Physique & Mind both!**
+⚡ Love to **Maintain Physique🏋 & Mind🧠 both!**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
