@@ -29,7 +29,7 @@
 
 🥅 Strengthening: **Automation testing skills**. <br>
 
-⚡ Love to build both a strong **Physique 🏋** and a sharper **Mind 🧠** — balance is my lifestyle."
+⚡ Love to build both a strong **Physique 🏋** and a sharper **Mind 🧠** — "balance is my lifestyle."
 
 
 
