@@ -25,9 +25,9 @@
 
 👯 I’m looking for a role in **Automation Testing**. <br>
 
-🥅 Currently Grinding: **Selenium, Playwright, Cypress**, And strengthening **Automation tesing skill**. <br>
+🥅 Currently Grinding: **Selenium, Playwright, Cypress** and strengthening **Automation testing skills**. <br>
 
-⚡ Love to **Maintain Physique & Mind too!**
+⚡ Love to **Maintain Physique & Mind both!**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
