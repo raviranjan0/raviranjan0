@@ -86,10 +86,6 @@
       <br>React.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" />
-      <br>Flask
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" />
       <br>Three.js
     </td>
