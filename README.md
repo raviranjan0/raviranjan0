@@ -85,9 +85,7 @@
       <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
       <br>React.js
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
       <br>Tailwind
     </td>
@@ -95,6 +93,8 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" />
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="55" height="55" />
       <br>Express.js
@@ -119,9 +119,7 @@
       <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
       <br>Git
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
       <br>MongoDB
     </td>
@@ -130,6 +128,7 @@
       <br>MySQL
     </td>
   </tr>
+  
 </table>
 
 <!-- 🧪 Testing Section -->
