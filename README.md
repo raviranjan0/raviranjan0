@@ -85,10 +85,6 @@
       <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
       <br>React.js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" />
-      <br>Three.js
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
