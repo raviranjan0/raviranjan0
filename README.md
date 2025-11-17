@@ -15,7 +15,7 @@
 
 
 👨🏻‍💻 **About Me**
-✨ QA Automation Engineer & Developer | **QA Engnieer** [@Zucol Group](https://www.linkedin.com/company/zucol/posts/?feedView=all) <br>
+✨ QA Automation Engineer & Developer | **QA Engnieer** [@Infobyd Software Solutions](https://www.linkedin.com/company/infobyd-software-solutions/posts/?feedView=all) <br>
 
 ⚡ Checkout my ✨ [Website](https://www.raviranjan.live/) <br>
 
