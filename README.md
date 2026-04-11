@@ -1,8 +1,6 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
 
-
-
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey!++%F0%9F%91%8B%2C+I+am+Raviranjan+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+am+a+QA+Automation+Engineer!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan0" /> </p>
@@ -55,81 +53,6 @@
 </table>
 
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology </h1>
-
-<!-- 🧑‍💻 Development Section -->
-<h2>💻 Development</h2>
-
-<table align="center" class="table table-dark">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="55" height="55" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
-      <br>React.js
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" />
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="55" height="55" />
-      <br>Express.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" />
-      <br>Vite
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
-      <br>Git
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
-      <br>MySQL
-    </td>
-  </tr>
-  
-</table>
 
 <!-- 🧪 Testing Section -->
 <h2>🧪 Testing</h2>
