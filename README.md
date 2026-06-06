@@ -9,26 +9,25 @@
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="raviranjan0" width="350" align="right">
 
 
-👨🏻‍💻 **About Me**
-✨ QA Automation Engineer| **QA Engnieer** [@Infobyd Software Solutions](https://www.linkedin.com/company/infobyd-software-solutions/posts/?feedView=all) <br>
+## 👨🏻‍💻 About Me
 
-⚡ Checkout my ✨ [Website](https://www.raviranjan.live/) <br>
+✨ **QA Automation Engineer | Software Tester**
 
-📫 How to reach me: [Mail me](mailto:webravi11@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/raviranjan0/)<br>
+🔍 Passionate about ensuring software quality through effective Manual and Automation and Security Testing practices.
 
-💬 Ask me about **Automation Testing** & **Web Development**.<br>
+💼 Experienced in **Selenium with Python, API Testing, Postman, Test Case Design, Bug Reporting, Regression Testing, Smoke Testing, and SDLC/STLC methodologies.**
 
-👯 I’m looking for a role in **Automation Testing**. <br>
+🚀 Currently enhancing my expertise in **Selenium, Playwright, API Automation, and Test Framework Development.**
 
-🥅 Currently Grinding: **Selenium, Playwright, Cypress.** <br>
+💬 Ask me about **Software Testing, Automation Testing, API Testing, Selenium, Python, and QA Best Practices.**
 
-🥅 Strengthening: **Automation testing skills**. <br>
+🎯 Actively seeking opportunities as a **QA Automation Engineer** where I can contribute to building reliable and high-quality software products.
 
-⚡ Love to build both a strong **Physique 🏋** and a sharper **Mind 🧠** — "balance is my lifestyle."
+📫 Reach me at: **[webravi11@gmail.com](mailto:webravi11@gmail.com)**
+🔗 LinkedIn: **linkedin.com/in/raviranjan0**
 
+⚡ Beyond testing, I enjoy building a stronger **Physique 🏋️** and a sharper **Mind 🧠** — continuously improving both personally and professionally.
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me :</h3>
 <div align="left">
