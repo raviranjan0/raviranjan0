@@ -52,44 +52,8 @@
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology </h1>
 
 <!-- 🧪 Testing Section -->
-<h2>🧪 Testing</h2>
+<h2 align="center">🧪 QA Automation & Testing Skills</h2> <table align="center"> <tr> <td align="center" width="90"> <img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="55" height="55" alt="Selenium" /> <br>Selenium </td> <td align="center" width="90"> <img src="https://img.icons8.com/color/96/python--v1.png" width="55" height="55" alt="Python" /> <br>Python </td> <td align="center" width="90"> <img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="55" alt="Playwright" /> <br>Playwright </td> <td align="center" width="90"> <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="55" height="55" alt="Cypress" /> <br>Cypress </td> <td align="center" width="90"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="55" height="55" alt="Postman" /> <br>Postman </td> <td align="center" width="90"> <img src="https://img.icons8.com/color/96/mysql-logo.png" width="55" height="55" alt="SQL" /> <br>SQL </td> <td align="center" width="90"> <img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" alt="Jira" /> <br>Jira </td> <td align="center" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="55" height="55" alt="Jenkins" /> <br>Jenkins </td> </tr> <tr> <td align="center" width="90"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55" alt="GitHub" /> <br>GitHub </td> <td align="center" width="90"> <img src="https://img.icons8.com/color/96/git.png" width="55" height="55" alt="Git" /> <br>Git </td> <td align="center" width="90"> <img src="https://pytest.org/assets/img/pytest_logo_curves.svg" width="55" height="55" alt="PyTest" /> <br>PyTest </td> <td align="center" width="90"> <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" width="55" height="55" alt="Rest Assured" /> <br>API Testing </td> <td align="center" width="90"> <img src="https://img.icons8.com/color/96/test-passed.png" width="55" height="55" alt="Manual Testing" /> <br>Manual Testing </td> <td align="center" width="90"> <img src="https://img.icons8.com/color/96/bug.png" width="55" height="55" alt="Bug Reporting" /> <br>Bug Tracking </td> <td align="center" width="90"> <img src="https://img.icons8.com/color/96/checklist.png" width="55" height="55" alt="Test Cases" /> <br>Test Cases </td> <td align="center" width="90"> <img src="https://img.icons8.com/color/96/task.png" width="55" height="55" alt="Agile" /> <br>Agile </td> </tr> </table>
 
-<table align="center" class="table table-dark">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="55" height="55" alt="Selenium WebDriver" />
-      <br>Selenium
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="55" height="55" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" alt="JIRA" />
-      <br>JIRA
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="55" height="55" alt="Cypress" />
-      <br>Cypress
-    </td>
-    <td align="center" width="90">
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="55" alt="Playwright" />
-      <br>Playwright
-    </td>
-    <td align="center" width="90">
-      <img src="https://jestjs.io/img/opengraph.png" width="55" height="55" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/2048px-Jenkins_logo.svg.png" width="55" height="55" alt="Jenkins" />
-      <br>Jenkins
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55" alt="GitHub Actions" />
-      <br>GitHub Actions
-    </td>
-  </tr>
-</table>
 
 
 ## 📊 GitHub Stats & Trophies
