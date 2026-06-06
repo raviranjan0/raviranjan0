@@ -92,39 +92,30 @@
 </table>
 
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/raviranjan0">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raviranjan0&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="raviranjan0's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=raviranjan0&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="raviranjan0's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <hr>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviranjan0&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="raviranjan0" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
-
-
-## My Github Stats-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviranjan0&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="raviranjan0" /></p>
- 
-<p align="left"><img
-                src="https://github-readme-stats.vercel.app/api?username=raviranjan0&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-                alt="raviranjan0" height="200" /></p>
-
-
-<p align="center">
-  <a href="https://github.com/raviranjan0">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raviranjan0&theme=transparent" />
-  </a>
-  <a href="https://github.com/raviranjan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviranjan0&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/raviranjan0">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raviranjan0&theme=transparent" />
-  </a>
-  <a href="https://github.com/raviranjan0">
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg)
