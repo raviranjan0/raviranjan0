@@ -23,7 +23,7 @@
 🎯 Actively seeking opportunities as a **QA Automation Engineer** where I can contribute to building reliable and high-quality software products.
 
 📫 Reach me at: **[webravi11@gmail.com](mailto:webravi11@gmail.com)**
-🔗 LinkedIn: **linkedin.com/in/raviranjan0**
+**<a href="https://linkedin.com/in/raviranjan-kumar-singh" target="_blank"> 🔗 LinkedIn: </a>**
 
 ⚡ Beyond testing, I enjoy building a stronger **Physique 🏋️** and a sharper **Mind 🧠** — continuously improving both personally and professionally.
 
