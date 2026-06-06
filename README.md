@@ -75,16 +75,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-
-<hr>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raviranjan0&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="raviranjan0" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg)
-
-
   
 <img src="https://img.shields.io/github/followers/raviranjan0.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" />
