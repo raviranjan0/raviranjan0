@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan0" /> </p>
 
 <hr>
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="raviranjan0" width="350" align="right">
 
 
 ## 👨🏻‍💻 About Me
